@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'home.dart';
-import 'splash/splash_screen.dart';
+
+import 'presentation/splash/splash_screen.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
 }
 
