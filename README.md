@@ -11,8 +11,14 @@ To get started with this application, follow these steps:
 
 ```bash
 git clone <repository-url>
+```
+```bash
 cd <project-folder-name>
+```
+```bash
 flutter pub get
+```
+```bash
 flutter run
 
 
