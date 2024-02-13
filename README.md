@@ -10,17 +10,17 @@ To get started with this application, follow these steps:
 1. First, clone this repository to your local machine.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/gemechis-elias/
 ```
 ```bash
-cd <project-folder-name>
+cd learning-assistance-app
 ```
 ```bash
 flutter pub get
 ```
 ```bash
 flutter run
-
+```
 
 ## Features
 
